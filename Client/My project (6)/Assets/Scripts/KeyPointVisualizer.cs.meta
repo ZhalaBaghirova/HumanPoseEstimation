@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1faef7549dd7e44abd3130cf45d73a3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainCamera: {instanceID: 0}
+  - keypointPrefab: {fileID: 3533120705908967196, guid: 87ed6e6c05e46e943a7a66b308a62a59,
+      type: 3}
+  - lineRendererPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
